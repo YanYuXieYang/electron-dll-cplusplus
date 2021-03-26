@@ -1,0 +1,16 @@
+﻿  pch.cpp
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.cpp(8,1): warning C4273: “add”: dll 链接不一致
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.h(20,16): message : 参见“add”的前一个定义
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.cpp(13,1): warning C4273: “minus”: dll 链接不一致
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.h(21,16): message : 参见“minus”的前一个定义
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.cpp(18,1): warning C4273: “multiply”: dll 链接不一致
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.h(22,16): message : 参见“multiply”的前一个定义
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.cpp(23,1): warning C4273: “divide”: dll 链接不一致
+E:\Git\electron-dll-cplusplus\Dll1\Dll1\pch.h(23,19): message : 参见“divide”的前一个定义
+  dllmain.cpp
+    正在创建库 E:\Git\electron-dll-cplusplus\Dll1\Release\Dll1.lib 和对象 E:\Git\electron-dll-cplusplus\Dll1\Release\Dll1.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll1.vcxproj -> E:\Git\electron-dll-cplusplus\Dll1\Release\Dll1.dll
